@@ -23,12 +23,11 @@
     font-family: "SimHei ";
     line-height: 100px;
 }
-.date{
+.date1{
     font-size: 12px;
     color: #d45d5c;
     font-family: "SimHei";
     float: right;
-    clear: right;
     position: relative;
     bottom: 17px;
 }
@@ -36,7 +35,9 @@
 .top{
     padding:34px 0;
 }
+/*第一部分 左半边*/
 .tL{ float: left; }
+/*第一部分 右半边*/
 .tR{
     float: right;
     width: 203px;
@@ -95,6 +96,7 @@
     width:100%;
     float: left;
 }
+/*What*/
 .cL{
     width: 260px;
     float: left;
@@ -114,6 +116,7 @@
     line-height: 19px;
     padding-right:28px;
 }
+/*When*/
 .cC{
     width: 230px;
     float: left;
@@ -134,6 +137,7 @@
     opacity: 0.7;
     padding-right: 28px;
 }
+/*How*/
 .cR{
     width: 170px;
     float: left;
@@ -145,6 +149,7 @@
     text-decoration: underline;
     padding: 8px 0;
     margin-top: 30px;
+
 }
 .cR p{
     color: #231815;
@@ -161,12 +166,16 @@
     line-height: 16px;
     opacity: 0.7;
 }
-.clear{clear: both;}
 /*第三部分*/
-.bL_T{width: 415px;}
 .bottom{
     float: left;
-    padding: 40px 0;
+    margin: 20px 0;
+}
+/*第三部分 左半边*/
+.bL{
+    width: 415px;
+    margin: 20px 0;
+    float: left;
 }
 .bL_T{
     border-bottom:2px solid #11456b; ;
@@ -193,9 +202,177 @@
     font-weight: bold;
     line-height: 50px;
 }
-.bL_B_txt .p3:first-letter{
+.bL_B_txt{
+    width: 415px;
+    margin-top: 25px;
+}
+#qian{
+    float: left;
     font-size: 70px;
     color: #f5e327;
     font-family: "Microsoft YaHei";
-    
+    padding: 25px 10px 30px 0;
+}
+.bL_B_txt p{
+    font-size: 12px;
+    color: #767777;
+    font-family: "Simsun";
+    line-height: 16px;
+    text-indent: 2em;
+}
+.bL_B_txt p:first-child{text-indent: 0em}
+.bL_B_txt img{
+    float:right ;
+    padding: 18px;
+}
+/*第三部分 右半边的 上半部分*/
+.bR{
+    position: relative;
+    top: 40px;
+}
+.bR_T,.bR_B{ float: right;}
+.bR_T{
+    width: 458px;
+    height: 255px;
+    position: relative;
+    bottom: 10px;
+    overflow: hidden;
+    transition: 0.5s;
+}
+.bR_B{
+    width: 460px;
+    height: 318px;
+    background-color:rgb(238,238,214) ;
+    position: relative;
+    top: 21px;
+}
+.img_txt{
+    width: 458px;
+    height: 61px;
+    background-color: rgba(0,0,0,.5);
+    position: absolute;
+    bottom: -63px;
+    transition: 0.5s;
+}
+#img_txt{
+    display: inline-block;
+    color: #ffffff;
+    font-size: 26px;
+    font-family: "Microsoft YaHei";
+    padding: 6px 10px 15px 10px ;
+}
+.img_txt .p3{
+    border-left: 3px solid #72b16a;
+    height: 40px;
+    margin:11px 10px 5px 40px;
+}
+.img_txt .p4{
+    color: #72b16a;
+    font-size: 16px;
+    font-style: italic;
+    font-family: "Microsoft YaHei";
+}
+.bR_T:hover{
+    transform: translate3d(0px,-5px,0px);
+    box-shadow: 0px 5px 10px;
+}
+.bR_T:hover .img_txt{
+    bottom: 0px;
+}
+.clear{ clear: both;}
+/*第三部分 右半边的 下半部分*/
+.bR_B_T ul{
+    color: #5a5b5b;
+    font-family:"Simsun";
+    line-height: 39px;
+    padding: 20px 0 20px 24px;
+}
+.three{
+    display: inline-block;
+    width: 0px;
+    height: 0px;
+    border-left: 8px solid transparent;
+    border-right: 8px solid transparent;
+    border-bottom: 8px solid #5a5b5b;
+    position: relative;
+    right: 5px;
+}
+.bR_B_L ,.bR_B_R{ float: left;}
+.bR_B_L{
+    width: 260px;
+    height: 160px;
+    background-color:#d45d5c;
+}
+.L_L ,.L_R{ float: left;}
+.L_L{
+    float: left;
+    color: #ffffff;
+    font-size: 110px;
+    font-family: "Microsoft YaHei";
+    margin: 25px 8px 25px 10px;
+}
+.L_R{
+    width: 160px;
+    border-left: 2px solid #ffffff;
+    padding-left: 10px;
+    margin: 35px 0;
+}
+.L_R p:first-child{
+    color: #fff;
+    font-size: 21px;
+    font-family: "SimHei";
+    font-style: italic;
+    line-height: 24px;
+}
+.L_R p:last-child{
+    color: #fff;
+    font-size: 16px;
+    font-family: "SimHei";
+    line-height: 15px;
+}
+.bR_B_R{
+    width: 200px;
+    height: 160px;
+    position: relative;
+}
+.bR_B_R p{
+    color: #5a5b5b;
+    font-size: 14px;
+    font-family: "SimHei";
+    font-style: italic;
+    line-height: 16px;
+    text-indent: 3em;
+    padding: 18px;
+}
+.bR_B_R span{
+    font-size: 72px;
+    color: #d45d5c;
+    font-family: "SimHei";
+}
+.bR_B_R .q1{
+    position: absolute;
+    right: 150px;
+}
+.bR_B_R .q2{
+    position:absolute;
+    left: 140px;
+    bottom: -15px;
+}
+.ft{
+    width: 100%;
+    float: left;
+    border-top: 1px solid #938e8c;
+    line-height: 20px;
+}
+.name{
+    float: left;
+    font-size: 12px;
+    color: #d45d5c;
+    font-family: "SimHei";
+}
+.date2{
+    font-size: 12px;
+    color: #d45d5c;
+    font-family: "SimHei";
+    float: right;
 }
