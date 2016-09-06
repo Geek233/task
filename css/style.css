@@ -36,7 +36,12 @@
     padding:34px 0;
 }
 /*第一部分 左半边*/
-.tL{ float: left; }
+.tL{
+    display:block;
+    float: left;
+    width: 641px;
+    height: 301px;
+}
 /*第一部分 右半边*/
 .tR{
     float: right;
@@ -68,8 +73,13 @@
     color: #75b86b;
     font-family: "Microsoft YaHei";
     font-style: oblique;
-    margin-left: -18px;
+    margin-left: -25px;
     padding: 15px 0 10px 0;
+    transition: 0.5s;
+}
+.tR h1:hover{
+    transform: translate3d(0px,-5px,0px);
+    text-shadow: 0px 5px 10px rgba(0,0,0,.3);
 }
 .tR_B_L ,.tR_B_R{ float: left;}
 .tR_B_L p{
@@ -194,6 +204,11 @@
     font-family: "SimHei";
     font-weight: bold;
     font-style: italic;
+    transition: 0.5s;
+}
+#the:hover{
+    transform: translate3d(0px,-5px,0px);
+    text-shadow: 0px 5px 10px rgba(0,0,0,.3);
 }
 .h2_2{
     font-size: 33px;
@@ -223,7 +238,8 @@
 .bL_B_txt p:first-child{text-indent: 0em}
 .bL_B_txt img{
     float:right ;
-    padding: 18px;
+    margin: 18px;
+    transition: 0.5s;
 }
 /*第三部分 右半边的 上半部分*/
 .bR{
@@ -246,7 +262,7 @@
     position: relative;
     top: 21px;
 }
-.img_txt{
+.task_1_2_txt{
     width: 458px;
     height: 61px;
     background-color: rgba(0,0,0,.5);
@@ -254,29 +270,25 @@
     bottom: -63px;
     transition: 0.5s;
 }
-#img_txt{
+.task_1_2_txt .p3{
+    border-left: 3px solid #72b16a;
+    height: 40px;
+    margin:11px 10px 5px 40px;
+}
+.task_1_2_txt .p4{
     display: inline-block;
     color: #ffffff;
     font-size: 26px;
     font-family: "Microsoft YaHei";
     padding: 6px 10px 15px 10px ;
 }
-.img_txt .p3{
-    border-left: 3px solid #72b16a;
-    height: 40px;
-    margin:11px 10px 5px 40px;
-}
-.img_txt .p4{
+.task_1_2_txt .p5{
     color: #72b16a;
     font-size: 16px;
     font-style: italic;
     font-family: "Microsoft YaHei";
 }
-.bR_T:hover{
-    transform: translate3d(0px,-5px,0px);
-    box-shadow: 0px 5px 10px;
-}
-.bR_T:hover .img_txt{
+.bR_T:hover .task_1_2_txt{
     bottom: 0px;
 }
 .clear{ clear: both;}
@@ -296,12 +308,14 @@
     border-bottom: 8px solid #5a5b5b;
     position: relative;
     right: 5px;
+    box-shadow: 0px 5px 5px rgba(0,0,0,.2);
 }
 .bR_B_L ,.bR_B_R{ float: left;}
 .bR_B_L{
     width: 260px;
     height: 160px;
     background-color:#d45d5c;
+    transition: 0.5s;
 }
 .L_L ,.L_R{ float: left;}
 .L_L{
