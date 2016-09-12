@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d704c7cf-df09-4279-9fe4-733e698e887f" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\task\css\reset.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\task\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\task\img\task_1_0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="D:\task\img\task_1_1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\task\img\task_1_1_1.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\task\img\task_1_1_2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\task\img\task_1_1_3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\task\img\task_1_2.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\task\img\task_1_3.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\task\img\task_1_5.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\task\img\task_1_psd.psd" afterPath="" />
-      <change type="DELETED" beforePath="D:\task\task_1.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d704c7cf-df09-4279-9fe4-733e698e887f" name="Default" comment="" />
     <ignored path="task.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,10 +21,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="task6.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="task6.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/task6/task6.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.16156463">
+            <state vertical-scroll-proportion="-3.392857">
               <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -74,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.0357144">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.19387755">
+              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -180,8 +165,8 @@
         <option value="$PROJECT_DIR$/task13.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/task_1.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/task6/task6.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -237,8 +222,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -297,7 +282,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/myProject" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
@@ -404,6 +389,50 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/task6/task6.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#1;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#1;n#div#1;n#div#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/task6/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -478,17 +507,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/task6/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.0357144">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-          <folding />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="396" column="0" selection-start-line="396" selection-start-column="0" selection-end-line="396" selection-end-column="0" />
+          <folding>
+            <element signature="e#4#38#0" expanded="false" />
+            <element signature="e#45#165#0" expanded="false" />
+            <element signature="e#175#199#0" expanded="false" />
+            <element signature="e#211#252#0" expanded="false" />
+            <element signature="e#259#336#0" expanded="false" />
+            <element signature="e#345#467#0" expanded="false" />
+            <element signature="e#475#606#0" expanded="false" />
+            <element signature="e#621#645#0" expanded="false" />
+            <element signature="e#663#740#0" expanded="false" />
+            <element signature="e#758#832#0" expanded="false" />
+            <element signature="e#840#1028#0" expanded="false" />
+            <element signature="e#1109#1200#0" expanded="false" />
+            <element signature="e#1207#1367#0" expanded="false" />
+            <element signature="e#1380#1471#0" expanded="false" />
+            <element signature="e#1516#1596#0" expanded="false" />
+            <element signature="e#1605#1647#0" expanded="false" />
+            <element signature="e#1660#1740#0" expanded="false" />
+            <element signature="e#1753#1833#0" expanded="false" />
+            <element signature="e#1851#1888#0" expanded="false" />
+            <element signature="e#1902#1940#0" expanded="false" />
+            <element signature="e#1948#2085#0" expanded="false" />
+            <element signature="e#2092#2211#0" expanded="false" />
+            <element signature="e#2225#2263#0" expanded="false" />
+            <element signature="e#2271#2407#0" expanded="false" />
+            <element signature="e#2414#2559#0" expanded="false" />
+            <element signature="e#2572#2610#0" expanded="false" />
+            <element signature="e#2618#2755#0" expanded="false" />
+            <element signature="e#2761#2906#0" expanded="false" />
+            <element signature="e#2911#2939#0" expanded="false" />
+            <element signature="e#2948#3069#0" expanded="false" />
+            <element signature="e#3087#3127#0" expanded="false" />
+            <element signature="e#3145#3203#0" expanded="false" />
+            <element signature="e#3210#3279#0" expanded="false" />
+            <element signature="e#3286#3411#0" expanded="false" />
+            <element signature="e#3417#3557#0" expanded="false" />
+            <element signature="e#3569#3660#0" expanded="false" />
+            <element signature="e#3667#3784#0" expanded="false" />
+            <element signature="e#3795#3838#0" expanded="false" />
+            <element signature="e#3845#3972#0" expanded="false" />
+            <element signature="e#3985#4101#0" expanded="false" />
+            <element signature="e#4160#4221#0" expanded="false" />
+            <element signature="e#4245#4287#0" expanded="false" />
+            <element signature="e#4324#4450#0" expanded="false" />
+            <element signature="e#4457#4568#0" expanded="false" />
+            <element signature="e#4583#4725#0" expanded="false" />
+            <element signature="e#4744#4832#0" expanded="false" />
+            <element signature="e#4851#4991#0" expanded="false" />
+            <element signature="e#5010#5114#0" expanded="false" />
+            <element signature="e#5141#5161#0" expanded="false" />
+            <element signature="e#5192#5294#0" expanded="false" />
+            <element signature="e#5302#5568#0" expanded="false" />
+            <element signature="e#5611#5704#0" expanded="false" />
+            <element signature="e#5737#5867#0" expanded="false" />
+            <element signature="e#5873#5974#0" expanded="false" />
+            <element signature="e#5994#6109#0" expanded="false" />
+            <element signature="e#6128#6219#0" expanded="false" />
+            <element signature="e#6228#6292#0" expanded="false" />
+            <element signature="e#6303#6461#0" expanded="false" />
+            <element signature="e#6475#6546#0" expanded="false" />
+            <element signature="e#6559#6604#0" expanded="false" />
+            <element signature="e#6617#6680#0" expanded="false" />
+            <element signature="e#6685#6780#0" expanded="false" />
+            <element signature="e#6787#6875#0" expanded="false" />
+            <element signature="e#6883#6972#0" expanded="false" />
+            <element signature="e#6987#7059#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/task6/task6.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.16156463">
+        <state vertical-scroll-proportion="-3.392857">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
@@ -519,6 +614,14 @@
             <element signature="n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19387755">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
