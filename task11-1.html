@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>task11-1</title>
+    <link rel="stylesheet" href="css/reset.css"/>
+    <style>
+        body,li,a {
+            font: 16px/1.2 "Microsoft YaHei";
+            color: #333;
+        }
+        #content {
+            height: 35px;
+            background-color: #cbcbcb;
+        }
+        #nav>li {
+            float: left;
+            padding: 0 15px;
+            line-height: 35px;
+            position: relative;
+        }
+        #nav>li:hover {
+            background-color: #aaa;
+        }
+        .child {
+            position: absolute;
+            left: 0;
+            top: 100%;
+            border: 1px solid #ccc;
+            display: none;
+        }
+        .child>li {
+            padding: 5px 15px;
+        }
+        #nav>li:hover .child {
+            display: block;
+        }
+        .child>li:hover {
+            background-color: #ccc;
+        }
+    </style>
+</head>
+<body>
+<div id="content">
+    <ul id="nav">
+        <li>
+            <a href="">前端</a>
+            <ul class="child">
+                <li><a href="">Javascript</a></li>
+                <li><a href="">Css</a></li>
+                <li><a href="">Html</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="">咩咩咩</a>
+            <ul class="child">
+                <li><a href="">咩？</a></li>
+                <li><a href="">喵？</a></li>
+                <li><a href="">汪？</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="">PPAP</a>
+            <ul class="child">
+                <li><a href="http://www.acfun.tv/">B站传送门</a></li>
+                <li><a href="http://www.bilibili.com/">楼上骗人</a></li>
+                <li><a href="http://www.baidu.com/">吃瓜群众</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="">HTML</a>
+        </li>
+        <li>
+            <a href="">NODE</a>
+        </li>
+    </ul>
+</div>
+</body>
+</html>
